@@ -4,9 +4,10 @@
 }
 .myHero {
     position: absolute;
+    background-size:cover;
     bottom: 10px;
-    width: 1000px;
-    height: 510px;
+    width: 120px;
+    height: 200px;
     background-image: url("hero-without.png");
     background-repeat: no-repeat;
 }
