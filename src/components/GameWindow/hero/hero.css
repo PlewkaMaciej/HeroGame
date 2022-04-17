@@ -1,0 +1,12 @@
+.heroContainer{
+    display: flex;
+    justify-content: center;
+}
+.myHero {
+    position: absolute;
+    bottom: 10px;
+    width: 1000px;
+    height: 510px;
+    background-image: url("hero-without.png");
+    background-repeat: no-repeat;
+}
