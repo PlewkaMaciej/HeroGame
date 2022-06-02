@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HeroGame/static/css/main.5448c222.css",
+    "main.js": "/HeroGame/static/js/main.e73567de.js",
+    "static/media/glyphicons-halflings-regular.svg": "/HeroGame/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/hero.png": "/HeroGame/static/media/hero.03e74106e6cb8b41c7cd.png",
+    "static/media/hero-without.png": "/HeroGame/static/media/hero-without.6b131277492754735f87.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/HeroGame/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/HeroGame/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/HeroGame/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/HeroGame/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/HeroGame/index.html",
+    "main.5448c222.css.map": "/HeroGame/static/css/main.5448c222.css.map",
+    "main.e73567de.js.map": "/HeroGame/static/js/main.e73567de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5448c222.css",
+    "static/js/main.e73567de.js"
+  ]
+}
